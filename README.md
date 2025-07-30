@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning LLMs { Large Language Modles}
 
-- 🎯 I’m deeply interested in **Data Analysis**, and passionate about uncovering insights from data
+- 🎯 I’m deeply interested in Data Analysis, and passionate about uncovering insights from data
 
 - 📊 Skilled in **SQL, Power BI, Python (Pandas, NumPy, Seaborn), Excel**, and other data analysis tools
 
