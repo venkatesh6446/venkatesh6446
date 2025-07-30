@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm K. Venkateshwarlu Guptha</h1>
 <h3 align="center">Computer Science Enthusiast | Aspiring Data Analyst | Building Innovative Solutions</h3>
 
-- 🌱 I’m currently learning **React, Django, and Power BI**
+- 🌱 I’m currently learning LLMs { Large Language Modles}
 
 - 🎯 I’m deeply interested in **Data Analysis**, and passionate about uncovering insights from data
 
